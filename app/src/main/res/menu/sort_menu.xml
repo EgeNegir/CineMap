@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Sıralama">
+        <menu>
+            <item android:id="@+id/sort_rating_desc" android:title="Puana Göre (En Yüksek)" />
+            <item android:id="@+id/sort_rating_asc" android:title="Puana Göre (En Düşük)" />
+            <item android:id="@+id/sort_year_desc" android:title="Yıla Göre (En Yeni)" />
+            <item android:id="@+id/sort_year_asc" android:title="Yıla Göre (En Eski)" />
+            <item android:id="@+id/sort_name_asc" android:title="İsim (A-Z)" />
+            <item android:id="@+id/sort_name_desc" android:title="İsim (Z-A)" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/filter_category" android:title="Türler">
+        <menu>
+            <item android:id="@+id/filter_all" android:title="Tüm Filmler" />
+            <item android:id="@+id/filter_action" android:title="Aksiyon" />
+            <item android:id="@+id/filter_drama" android:title="Dram" />
+            <item android:id="@+id/filter_sci_fi" android:title="Bilim Kurgu" />
+            <item android:id="@+id/filter_horror" android:title="Korku" />
+            <item android:id="@+id/filter_comedy" android:title="Komedi" />
+        </menu>
+    </item>
+
+</menu>

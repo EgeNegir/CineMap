@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238781811742",
+    "project_id": "cinemap-2a698",
+    "storage_bucket": "cinemap-2a698.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238781811742:android:63513b37bba189ee35f20f",
+        "android_client_info": {
+          "package_name": "com.egenegir.cinemap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOfqsmdloF1UV1cygBK2o5BReY9F-yro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238781811742:android:1cfa98e666e57e4435f20f",
+        "android_client_info": {
+          "package_name": "com.register.cinemap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOfqsmdloF1UV1cygBK2o5BReY9F-yro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
