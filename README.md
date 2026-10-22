@@ -44,12 +44,4 @@ CineMap, kullanıcıların "Ne izlesem?" sorusuna yanıt verirken, aynı zamanda
 
 ---
 
-## ⚙️ Kurulum Notları
-1. Proje `google-services.json` dosyası içermemektedir. Kendi Firebase projenizi oluşturup dosyayı eklemelisiniz.
-2. `AndroidManifest.xml` dosyasında Google Maps API anahtarı gereklidir.
 
-
-
-
-
-Bu proje **Ege Negir** tarafından geliştirilmiştir.
